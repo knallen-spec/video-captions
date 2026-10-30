@@ -1,0 +1,3 @@
+# Words Whisper should spell correctly. One per line; passed as initial prompt.
+# Keep it short (max ~40 terms): a long prompt can make Whisper repeat it.
+# Add your name, your company and your product names here.
